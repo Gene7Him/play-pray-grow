@@ -1,0 +1,57 @@
+{
+  "week_id": 1,
+  "title": "God Made Me",
+  "core_verse": "Psalm 139:14",
+  "theme": "God Made My Body",
+  "meeting_days": ["Tuesday", "Wednesday", "Thursday"],
+  "snacks": ["Apple juice", "Grapes", "Milk", "Apples"],
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Touch & Texture Exploration",
+      "focus": "My Hands Can Feel",
+      "subjects": {
+        "Morning Circle": [
+          "Welcome song",
+          "Prayer",
+          "Bible Verse",
+          "Movement warm-up"
+        ],
+        "Science/Nature": [
+          "Mini Outdoor Touch Walk",
+          "Touch & Texture bins"
+        ],
+        "Math & Literacy": [
+          "Counting fingers",
+          "Sorting textures",
+          "Read 'Hands Can' by Cheryl Willis Hudson"
+        ],
+        "Art": [
+          "Texture Hand Collage"
+        ],
+        "Music & Movement": [
+          "He’s Got the Whole World in His Hands",
+          "Wonderfully Made"
+        ],
+        "Social Emotional": [
+          "Reflection",
+          "Closing Prayer"
+        ]
+      },
+      "supplies": [
+        "Construction paper",
+        "Glue",
+        "Scissors",
+        "Cotton",
+        "Sandpaper",
+        "Buttons",
+        "Bubble wrap"
+      ],
+      "reflection_questions": [
+        "What do your hands help you do?",
+        "How can your hands show love?"
+      ]
+    }
+  ],
+  "notes": "End of lessons project: Closing Wonder Moment"
+}
