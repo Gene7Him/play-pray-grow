@@ -2,7 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Basic resets & body */
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
 @layer base {
   :root {
     /* Warm, nature-inspired palette */
@@ -112,6 +115,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-/* small card */
-.card { background: white; border-radius: 14px; padding: 1rem; box-shadow: 0 6px 18px rgba(16,24,40,0.06); }

@@ -19,6 +19,11 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
+            <Link href="/brainstorm" className="hover:text-gray-300">
+              Brainstorm Hub
+            </Link>
+          </li>
+          <li>
             <Link href="/worksheets" className="hover:text-gray-300">
               Worksheets
             </Link>
